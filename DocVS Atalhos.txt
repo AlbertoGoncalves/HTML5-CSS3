@@ -1,0 +1,4 @@
+* <!-- Para Criar documento padrão apenas digitar "!" + Enter  -->
+
+* Atralho para comentar linha "ctrl" + ";"
+
