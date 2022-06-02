@@ -6,7 +6,7 @@
 _Para mais exemplos, consulte [html5](https://pt.wikipedia.org/wiki/HTML5)._
 
 
-_Para mais exemplos, consulte [css3](https://pt.wikipedia.org/wiki/CSS3#:~:text=CSS3%20%C3%A9%20a%20terceira%20mais,web%20(p%C3%A1gina%20de%20internet).)._
+_Para mais exemplos, consulte [css3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)._
 
 ## Histórico de lançamentos
 
